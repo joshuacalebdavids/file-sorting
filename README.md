@@ -1,7 +1,7 @@
 # 🗂️ Python Auto Sorter
 
 A simple and effective Python script to automatically organize files in a given directory.  
-It sorts files by type (e.g. Images, PDFs, Code, etc.) into relevant folders — creating those folders if they don’t already exist.
+It sorts files by type (e.g. Images, PDFs, Code, etc.) into relevant folders; creating those folders if they don’t already exist.
 
 ---
 
